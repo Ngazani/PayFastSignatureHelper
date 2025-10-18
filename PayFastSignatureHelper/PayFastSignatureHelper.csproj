@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<PackageId>PayFastSignatureHelper</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Ngazani</Authors>
+	<Company>itsNgazii.Dev</Company>
+	<Product>PayFast Signature Helper</Product>
+	<Description>A simple .NET library to help with PayFast signature generation.</Description>
+	<RepositoryUrl>https://github.com/Ngazani/PayFastSignatureHelper</RepositoryUrl>
+	<PackageTags>PayFast,Signature,MD5,PaymentGateway,Hashing,PHP,Encoding</PackageTags>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
